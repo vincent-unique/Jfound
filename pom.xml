@@ -7,6 +7,7 @@
   <groupId>org.trump.vincent</groupId>
   <artifactId>Jfound</artifactId>
   <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <name>Jfound</name>
   <!-- FIXME change it to the project's website -->
@@ -20,6 +21,7 @@
 
   <modules>
     <module>Retry</module>
+    <module>typesafe</module>
   </modules>
 
   <dependencies>

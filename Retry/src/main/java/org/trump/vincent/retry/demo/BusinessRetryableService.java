@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Description:
- * User: liwei
+ * User: vincent
  * Date: 2018/11/7
  **/
 public interface BusinessRetryableService {
