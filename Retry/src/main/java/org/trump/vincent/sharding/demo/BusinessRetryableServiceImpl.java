@@ -1,4 +1,4 @@
-package org.trump.vincent.retry.demo;
+package org.trump.vincent.sharding.demo;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

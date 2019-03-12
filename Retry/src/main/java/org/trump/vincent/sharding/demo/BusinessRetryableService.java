@@ -1,4 +1,4 @@
-package org.trump.vincent.retry.demo;
+package org.trump.vincent.sharding.demo;
 
 import org.springframework.retry.annotation.Backoff;
 import org.springframework.retry.annotation.Retryable;

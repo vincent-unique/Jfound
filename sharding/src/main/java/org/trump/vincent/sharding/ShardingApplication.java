@@ -1,14 +1,12 @@
-package org.trump.vincent.retry;
+package org.trump.vincent.sharding;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.retry.annotation.EnableRetry;
 
-@EnableRetry
 @SpringBootApplication
-public class RetryApplication {
+public class ShardingApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RetryApplication.class, args);
+        SpringApplication.run(ShardingApplication.class, args);
     }
 }

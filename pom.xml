@@ -22,6 +22,8 @@
   <modules>
     <module>Retry</module>
     <module>typesafe</module>
+    <module>Mybatis</module>
+    <module>sharding</module>
   </modules>
 
   <dependencies>

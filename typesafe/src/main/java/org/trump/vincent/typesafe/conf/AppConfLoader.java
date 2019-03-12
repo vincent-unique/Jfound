@@ -21,6 +21,6 @@ public class AppConfLoader {
 
     public static void main(String[] args) {
         Config config = loadAppConf("app.conf");
-        System.out.print(String.format("app.owner: %s",config.getString("app.owner")));
+        System.out.print(String.format("ibatis.owner: %s",config.getString("ibatis.owner")));
     }
 }

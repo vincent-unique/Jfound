@@ -1,4 +1,4 @@
-package org.trump.vincent.retry;
+package org.trump.vincent.sharding;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
